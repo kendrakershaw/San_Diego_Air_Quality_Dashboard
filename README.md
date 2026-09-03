@@ -19,5 +19,10 @@ This Power BI dashboard analyzes air quality from 13 monitoring sites across San
 [Dashboard](https://csusm-my.sharepoint.com/:u:/g/personal/kersh006_csusm_edu/IQC8Yc-9ydWWQabSVB5a0Dg5AUInvcnTSTmFSRWQ0uQucSQ?e=O85AOI)
 
 ![Screenshot(495)](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/Overview%20Screenshot.png)
+San Diego County Air Quality Monitoring Sites and average PM 2.5 µg/m³ per site
+
 ![Screenshot(495)](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/Trend%20Analysis%20Screenshot.png)
+Changes in pollutant levels over time by monitoring site
+
 ![Screenshot(495)](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/Filtered%20Overview%20Page.png)
+Example of dashboard filtered by month, looking at average PM 2.5 µg/m³ per site, in September from 2021-2024
