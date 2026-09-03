@@ -17,3 +17,7 @@ This Power BI dashboard analyzes air quality from 13 monitoring sites across San
 
 ## Dashboard
 [Dashboard](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2021.csv)
+
+![Screenshot(495)](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/Overview%20Screenshot.png)
+![Screenshot(495)](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/Trend%20Analysis%20Screenshot.png)
+![Screenshot(495)](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/Filtered%20Overview%20Page.png)
