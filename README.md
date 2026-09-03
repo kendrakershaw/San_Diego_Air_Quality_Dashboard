@@ -7,3 +7,4 @@ https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_q
 
 ## Dashboard
 - <a href="https://csusm-my.sharepoint.com/:u:/g/personal/kersh006_csusm_edu/IQC8Yc-9ydWWQabSVB5a0Dg5AUInvcnTSTmFSRWQ0uQucSQ?e=ITDgtI">Dataset</a>
+[Dataset] (https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2021.csv)
