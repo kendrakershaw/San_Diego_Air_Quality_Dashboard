@@ -3,8 +3,17 @@
 This Power BI dashboard analyzes air quality from 13 monitoring sites across San Diego County. It creates an interactive dashboard so that changes and trends in pollutant levels across the county are easier to understand. 
 
 ## Data Sets Used
-https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2021.csv
+### Air Quality Data
+- [Air Quality Data 2021](https://csusm-my.sharepoint.com/:u:/g/personal/kersh006_csusm_edu/IQC8Yc-9ydWWQabSVB5a0Dg5AUInvcnTSTmFSRWQ0uQucSQ?e=ITDgtI)
+- [Air Quality Data 2022](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2022.csv)
+- [Air Quality Data 2023](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2023.csv)
+- [Air Quality Data 2024](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2024.csv)
+
+### Monitoring Site Data
+- [Site 2021](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/site_data_2021.csv)
+- [Site 2022](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/site_data_2022.csv)
+- [Site 2023](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/site_data_2023.csv)
+- [Site 2024](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/site_data_2024.csv)
 
 ## Dashboard
-- <a href="https://csusm-my.sharepoint.com/:u:/g/personal/kersh006_csusm_edu/IQC8Yc-9ydWWQabSVB5a0Dg5AUInvcnTSTmFSRWQ0uQucSQ?e=ITDgtI">Dataset</a>
-[Dataset] (https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2021.csv)
+[Dashboard](https://github.com/kendrakershaw/San_Diego_Air_Quality_Dashboard/blob/main/air_quality_data_2021.csv)
